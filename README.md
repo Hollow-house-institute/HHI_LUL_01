@@ -1,5 +1,17 @@
 # HHI Language Licensing
 
+Role: Language Use License governing reuse of HHI terminology and frameworks
+Authority Tier: Tier 1 (Governance Standards / Licensing Interface)
+Depends On: Master_License_Suite, Hollow_House_Standards_Library
+Does Not Define: Canonical terminology, governance implementation, datasets
+Governance Status: Canonical
+
+Authority Links:
+- Master_License_Suite (licensing authority)
+- Hollow_House_Standards_Library (definitions authority)
+- SPEC-002 Terminology Governance & Canonicalization (HHI-SPEC-002)
+- SPEC-003 Repository Governance & Authority Order (HHI-SPEC-003)
+
 This repository defines how Hollow House Institute governance language
 is licensed for commercial use.
 
