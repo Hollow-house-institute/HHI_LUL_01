@@ -1,3 +1,12 @@
+## Status: NON-CANONICAL (DEVELOPMENT ONLY)
+
+Canonical source:
+https://github.com/Hollow-house-institute/HHI_LUL_01
+
+Not valid for audit, licensing, or enforcement.
+
+---
+
 # HHI Language Licensing
 
 This repository defines how Hollow House Institute governance language
